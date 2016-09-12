@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AutoSummaryV01.AnswerKey">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAECAAACAAACAAAACAAAACAAAABAAAAAIAAAAAAAA=</HashCode>
+      <FileName>AnswerKey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoSummaryV01.MainForm">
+    <Position X="7.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgBACAACAQAACAAJAgAAQAEQEAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoSummaryV01.GlobalClass">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAIAAAAAGQCAAABAABAAAAAAAAAAAAAACAAAAAAgA=</HashCode>
+      <FileName>GlobalClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoSummaryV01.Process">
+    <Position X="2.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAUACAQDCBQCBABUAiQIAACAQFAjgAAEAAgACIEBAI=</HashCode>
+      <FileName>Process.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoSummaryV01.Program">
+    <Position X="16.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoSummaryV01.InputSettings">
+    <Position X="4.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AABQQAAAACAgABAQAACAAEACMAAAAAEAkGAAAAAAAAI=</HashCode>
+      <FileName>SetBasic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoSummaryV01.GraphAndTable">
+    <Position X="9.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ECCAAACIACAACCAQAACAQAQCgRi4ABAA0HAAACIBBFA=</HashCode>
+      <FileName>ViewResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoSummaryV01.Properties.Resources" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoSummaryV01.Properties.Settings">
+    <Position X="16.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
